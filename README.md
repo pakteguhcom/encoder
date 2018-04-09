@@ -25,7 +25,7 @@ If you have another awesome algorithm to share with us, we'd be happy to merge y
 
 Please create a seperate feature branch e.g. ```feature-base32``` and apply your changes. After that open a pull request from that branch to our ```master``` branch. 
 
-If we do not react asap, feel free to shoot us a message via Twitter ```@internetwache```. 
+If we do not react asap, feel free to shoot us a message Pak Teguh. 
 
 #License
 
